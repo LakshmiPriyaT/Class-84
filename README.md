@@ -1,2 +1,2 @@
-# book-santa-stage-7
-Stage - 7 
+# book-santa-stage-8
+Stage - 8
